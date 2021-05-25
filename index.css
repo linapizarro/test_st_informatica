@@ -50,3 +50,13 @@ header > nav > ul > li > a {
   border-radius: 10px;
   text-decoration: none;
 }
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.portada {
+  background-image: url("https://picsum.photos/id/237/1100/600/?blur");
+  height: 85vh;
+  background-size: cover;
+}
