@@ -17,8 +17,8 @@ header {
   flex-wrap: wrap;
 }
 footer {
-  background-image: linear-gradient(to right, #333, #ccc);
-  font-size: 0.7rem;
+  background-color: darkgray;
+  font-size: 1.7rem;
   display: flex;
   justify-content: center;
 }
